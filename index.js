@@ -5,5 +5,6 @@ function theBeatlesPlay (musicians,instruments) {
 
   var beatles; // new empty array
     for (i = 0; i < 3; i++) // for loop
-      beatles.push(musicians[i] + " plays the " + instruments[i])
+      beatles.push(musicians[i] + " plays the " + instruments[i]);
+      
 }
