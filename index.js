@@ -22,5 +22,5 @@ function johnLennonFacts (facts) {
 }
 
 function iLoveTheBeatles () {
-  
+  var expressions = []
 }
