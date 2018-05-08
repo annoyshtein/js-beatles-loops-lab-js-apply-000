@@ -25,6 +25,7 @@ function iLoveTheBeatles (times) {
   var expressions = []
   do {
     expressions.push("I love the Beatles!");
+    times++;
   }
   while (times < 15);
 }
