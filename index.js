@@ -28,4 +28,5 @@ function iLoveTheBeatles (times) {
     times++;
   }
   while (times < 15);
+  return expressions;
 }
