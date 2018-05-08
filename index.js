@@ -23,4 +23,8 @@ function johnLennonFacts (facts) {
 
 function iLoveTheBeatles (times) {
   var expressions = []
+  do {
+
+  }
+  while (times < 15);
 }
